@@ -12,3 +12,6 @@ Once on the password generator the user will be able to generate a random passwo
 Authors and Acknowledgements
 
 This code was prepared for Challenge 3 for Rutgers University Bootcamp by Adam Abare
+
+![PG](https://user-images.githubusercontent.com/88077451/133019796-724f95ff-1325-46b4-bfba-debdf155752d.PNG)
+
